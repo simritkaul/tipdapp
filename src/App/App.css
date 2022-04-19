@@ -150,6 +150,11 @@ html, body {
     margin: 10px 0 0 0;
   }
 
+  .tipinput{
+    width: 80%;
+    align-self: center;
+  }
+
   .tipInfo {
     width: 80%;
   }
